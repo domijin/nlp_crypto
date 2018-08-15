@@ -15,7 +15,7 @@ Cryptocurrency is a concept of digital currency in which encryption techniques a
 
 [Cryptocurrency ticket price Reference](https://blog.patricktriest.com/analyzing-cryptocurrencies-python/)
 
-![](fig/ICDIS2018.png)
+[![](https://www.dropbox.com/s/fvodf0bhl3l4azi/Screenshot%202018-08-14%2023.35.16.png?dl=1)](/fig/ICDIS2018.png)
 
 
 ### crawl WSJ news archive
